@@ -22,4 +22,4 @@ foreach($e in $ens)
 {
     ExportWSToCSV -excelfilename $e.FullName -csvLoc "\\Mac\Home\Desktop\SSISCode\Code\csvTesting\"
 }
-
+## work deeply on powershell commands.
